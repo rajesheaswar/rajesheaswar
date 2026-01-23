@@ -1,4 +1,4 @@
-# Rajesh Easwar
+# Rajesh Easwaramoorthy
 
 Executive Product Leader and AI Builder focused on Cloud, Data, and AI-native platforms.
 
