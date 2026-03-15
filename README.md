@@ -74,7 +74,7 @@ Tools accelerate outcomes. Judgment drives results.
 
 - **Product Discovery & UX Prototyping:** Perplexity, Gemini, v0, Lovable, Replit
 - **Agentic Development & Engineering:** VS Code, Claude Code, Cursor, Antigravity
-- **AI-Native Workflows:** Agentic coding, Spec-driven development (SDD), AI-assisted testing, refactoring, documentation
+- **AI-Native Workflows:** Agentic coding, Spec-driven development (SDD - BMAD, GSD methods), AI-assisted testing, refactoring, documentation
 
 ---
 
