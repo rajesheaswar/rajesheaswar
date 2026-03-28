@@ -32,6 +32,48 @@ Focus areas include:
 
 ---
 
+## Agentic SRE Platform
+
+An **AI-native Site Reliability Engineering platform** designed to enable autonomous operational intelligence across cloud-native environments.
+
+Key focus areas:
+
+- AI-driven anomaly detection and incident prediction  
+- Automated root cause analysis across metrics, logs, traces, and events  
+- Agentic remediation workflows and reliability automation  
+- Intelligent operational insights for distributed systems  
+- Platform architecture designed for enterprise-scale reliability engineering
+
+---
+
+## Agentic ITSM & ITOps Platform
+
+A **GenAI-powered service management and operations platform** that reimagines IT service management using autonomous AI agents.
+
+Capabilities include:
+
+- AI-driven incident triage and classification  
+- Automated ticket resolution workflows  
+- Intelligent change management and operational insights  
+- Cross-system orchestration across enterprise infrastructure  
+- Agentic workflows for proactive IT operations
+
+---
+
+## CodeCollab: Enterprise AI Code Translation Platform
+
+An **enterprise AI platform for automated code translation and modernization**, designed to help organizations migrate legacy systems and modernize engineering workflows.
+
+Core features include:
+
+- AI-assisted code translation across programming languages  
+- Intelligent refactoring and modernization recommendations  
+- Developer collaboration and validation workflows  
+- Scalable platform architecture for enterprise engineering teams  
+- Accelerated legacy modernization initiatives
+
+---
+
 ### **AI Trust**
 AI-native governance and trust platform enabling safe adoption of GenAI across regulated and enterprise environments, with trust-by-design across policy enforcement, risk detection, and auditability.
 
