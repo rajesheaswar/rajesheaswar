@@ -90,10 +90,10 @@ AI-native governance and trust platform enabling safe adoption of GenAI across r
 
 ### **AI Canvas**
 
+An AI-native integration and orchestration platform designed to accelerate enterprise workflows across data, applications, APIs, and AI agents.
+
 Interactive Prototype
 https://v0-ai-canvas-zeta.vercel.app/
-
-An AI-native integration and orchestration platform designed to accelerate enterprise workflows across data, applications, APIs, and AI agents.
 
 The goal is to enable enterprises to build intelligent, adaptive operational workflows across their technology stack.
 
@@ -101,10 +101,10 @@ The goal is to enable enterprises to build intelligent, adaptive operational wor
 
 ### **Unified Cloud-Native NDR Evidence Fabric**
 
+A cloud-native platform for collecting, correlating, and operationalizing network detection and response evidence across hybrid and multi-cloud environments.
+
 Interactive Prototype
 https://v0-cloud-native-evidence-fabric.vercel.app/
-
-A cloud-native platform for collecting, correlating, and operationalizing network detection and response evidence across hybrid and multi-cloud environments.
 
 Focus areas include:
 
