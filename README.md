@@ -21,6 +21,12 @@ I lead the strategy, design, and build AI-native platform products at the inters
 
 Most active work is maintained in **private repositories** due to IP sensitivity and enterprise use cases. Below is a representative portfolio of recent platforms and products.
 
+## Product Vision
+
+This platform explores how AI agents can transform enterprise operations by automating complex workflows and enabling intelligent decision support.
+
+The long-term vision is to build autonomous platforms capable of monitoring systems, diagnosing problems, and executing remediation actions with minimal human intervention.
+
 ### **Unified AI-Native Observability Platform**
 A next-generation observability platform built to support **AI-native, cloud-native, and agentic systems**.
 
@@ -64,6 +70,9 @@ Capabilities include:
 
 An **enterprise AI platform for automated code translation and modernization**, designed to help organizations migrate legacy systems and modernize engineering workflows.
 
+Interactive Prototype
+https://v0-code-collab-enterprise-ai-code-t.vercel.app/
+
 Core features include:
 
 - AI-assisted code translation across programming languages  
@@ -80,12 +89,29 @@ AI-native governance and trust platform enabling safe adoption of GenAI across r
 ---
 
 ### **AI Canvas**
+
+Interactive Prototype
+https://v0-ai-canvas-zeta.vercel.app/
+
 An AI-native integration and orchestration platform designed to accelerate enterprise workflows across data, applications, APIs, and AI agents.
+
+The goal is to enable enterprises to build intelligent, adaptive operational workflows across their technology stack.
 
 ---
 
 ### **Unified Cloud-Native NDR Evidence Fabric**
+
+Interactive Prototype
+https://v0-cloud-native-evidence-fabric.vercel.app/
+
 A cloud-native platform for collecting, correlating, and operationalizing network detection and response evidence across hybrid and multi-cloud environments.
+
+Focus areas include:
+
+• unified security telemetry
+• evidence correlation
+• AI-assisted investigation
+• security analytics workflows
 
 ---
 
