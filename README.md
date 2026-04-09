@@ -1,7 +1,7 @@
 # Rajesh Easwaramoorthy
 
 **Executive Product Leader & AI Platform Builder**  
-Enterprise SaaS · Cloud · Data · AI-native & GenAI Platforms
+Enterprise SaaS · Cloud · Data · AI-native & GenAI Platforms · AI Agents
 
 I lead the strategy, design, and build AI-native platform products at the intersection of **strategy, systems thinking, and hands-on execution**. My work focuses on taking complex ideas from discovery to **launch-ready, enterprise-grade products**, combining executive product leadership with modern **agentic product development workflows**. I actively prototype AI-native systems to validate ideas, architectures, and user experiences.
 
