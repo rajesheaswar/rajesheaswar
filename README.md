@@ -21,6 +21,20 @@ I lead the strategy, design, and build AI-native platform products at the inters
 
 Most active work is maintained in **private repositories** due to IP sensitivity and enterprise use cases. Below is a representative portfolio of recent platforms and products.
 
+## 🛡️ AI Security & Governance Control Plane
+
+A lifecycle control plane for AI models, GenAI apps, copilots, and autonomous agents. The governance brain for enterprise AI: see every AI asset, test it before it ships, govern it while it runs, and stop it when it misbehaves.
+
+**Vision:** Make enterprise AI risk visible, testable, controllable, and auditable across the full lifecycle in one graph and policy engine.
+
+Core capabilities include:
+- **Design-time Governance:** TEVV plans, deployment gates, and structured red-team evidence.
+- **Runtime Discovery & Policy:** Unified AI asset and trust graph, agent identity visibility, and policy-as-code guardrails.
+- **Post-runtime Containment:** Threat/anomaly detection, incident response, and a tiered kill switch with dual-approval reinstatement.
+
+[View Repository](https://github.com/rajesheaswar/ai-security-and-governance-control-plane)
+
+---
 ## Product Vision
 
 This platform explores how AI agents can transform enterprise operations by automating complex workflows and enabling intelligent decision support.
@@ -80,14 +94,6 @@ Core features include:
 - Developer collaboration and validation workflows  
 - Scalable platform architecture for enterprise engineering teams  
 - Accelerated legacy modernization initiatives
-
----
-
-### 🛡️ AI Security & Governance Control Plane
-Lifecycle control plane for enterprise AI: design-time TEVV gates → runtime policy & agent identity → tiered kill switch, with audit-ready evidence.
-Answers three questions: *Was it tested before it shipped? What can it touch now? Can I stop it?*
-**Stack:** Next.js 16 · React 19 · TypeScript · Postgres/Drizzle · D3 · Vercel
-[Repository](https://github.com/rajesheaswar/ai-security-and-governance-control-plane)
 
 ---
 
