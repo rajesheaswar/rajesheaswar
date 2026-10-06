@@ -83,9 +83,11 @@ Core features include:
 
 ---
 
-### **AI Trust**
-AI-native governance and trust platform enabling safe adoption of GenAI across regulated and enterprise environments, with trust-by-design across policy enforcement, risk detection, and auditability.
-
+### 🛡️ AI Security & Governance Control Plane
+Lifecycle control plane for enterprise AI: design-time TEVV gates → runtime policy & agent identity → tiered kill switch, with audit-ready evidence.
+Answers three questions: *Was it tested before it shipped? What can it touch now? Can I stop it?*
+**Stack:** Next.js 16 · React 19 · TypeScript · Postgres/Drizzle · D3 · Vercel
+[Repository](https://github.com/rajesheaswar/ai-security-and-governance-control-plane)
 ---
 
 ### **AI Canvas**
