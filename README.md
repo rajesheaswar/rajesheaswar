@@ -88,6 +88,7 @@ Lifecycle control plane for enterprise AI: design-time TEVV gates → runtime po
 Answers three questions: *Was it tested before it shipped? What can it touch now? Can I stop it?*
 **Stack:** Next.js 16 · React 19 · TypeScript · Postgres/Drizzle · D3 · Vercel
 [Repository](https://github.com/rajesheaswar/ai-security-and-governance-control-plane)
+
 ---
 
 ### **AI Canvas**
